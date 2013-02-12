@@ -1,0 +1,2 @@
+DEFINE testing
+DEFINE design
