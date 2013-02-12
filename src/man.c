@@ -1,1 +1,2 @@
 DEFINE testing
+DEFINE design
